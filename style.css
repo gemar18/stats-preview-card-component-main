@@ -120,6 +120,7 @@ h1 span {
     main {
         margin: 0px auto;
         width: 100%;
+        min-height: 100vh;
     }
 
     .wrapper {
